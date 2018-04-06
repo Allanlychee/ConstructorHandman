@@ -1,0 +1,17 @@
+{
+  "name": "ConstructorHangman",
+  "version": "1.0.0",
+  "description": "Hangman but in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  }
+}
